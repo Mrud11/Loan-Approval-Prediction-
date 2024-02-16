@@ -10,4 +10,4 @@ In essence, the Loan Approval Prediction Model signifies a radical leap in finan
 
 ( Sample Dataset Image )
 
-![image](https://github.com/Mrud11/Loan-Approval-Prediction-/assets/80881870/8e553462-b178-405b-b9f0-5995eed01dde) ( Sample Dataset )
+![image](https://github.com/Mrud11/Loan-Approval-Prediction-/assets/80881870/8e553462-b178-405b-b9f0-5995eed01dde)
